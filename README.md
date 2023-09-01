@@ -46,7 +46,6 @@
 
 <br clear="both">
 
-
- <img src="https://github.com/numan71417/numan71417/blob/output/github-contribution-grid-snake2.svg">
+<img src="https://raw.githubusercontent.com/Numan71417/Numan71417/output/snake.svg" alt="Snake animation" />
 
 ###
