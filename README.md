@@ -47,6 +47,6 @@
 <br clear="both">
 
 
- <img src="https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg">
+ <img src="https://github.com/numan71417/numan71417/blob/output/github-contribution-grid-snake2.svg">
 
 ###
