@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Numan71417/Numan71417/output/snake.svg" alt="Snake animation" />
+
 
 ###
