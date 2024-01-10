@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohammed Numan Raza and I'm learning MERN stack</h2>
+<h2 align="left">Hi 👋! My name is Mohammed Numan Raza and I'm a full stack Developer</h2>
 
 ###
 
